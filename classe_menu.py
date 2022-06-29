@@ -32,3 +32,4 @@ class Menu:
                 break
             else:
                 print('Opção invalida!!!')
+
